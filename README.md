@@ -56,6 +56,9 @@ If ETF1 is **US500** with a price of £4500 and ETF2 is **NAS** with a price of 
 - ETF2 stake will always be £0.02 (fixed maximum for NAS).
 - The application will calculate the proportional stake for ETF1.
 
+- ![image](https://github.com/user-attachments/assets/7b3fa93d-c8d1-4fb5-bf42-7e9d4a43f3a9)
+
+
 ---
 
 ## Fixed Parameters
